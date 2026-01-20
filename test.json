@@ -1,0 +1,11 @@
+{
+  "html": "<!doctype html><html><head><style>body{font-family:Arial;} h1{color:#0a5}</style></head><body><h1>Hola PDF</h1><p>Render funcionando ✅</p></body></html>",
+  "options": {
+    "format": "A4",
+    "printBackground": true
+  },
+  "meta": {
+    "type": "test",
+    "reference_id": 1
+  }
+}
